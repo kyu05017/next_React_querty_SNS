@@ -7,3 +7,4 @@
  1일차 
     npx create-next-app@latest 실행
     next 14 라이브러리 생성
+    라이브러리 기본세팅
